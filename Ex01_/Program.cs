@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Программа "разворачивает" массив
 Console.WriteLine("Hello, World!");
 int [] arr = new int [5];
 
