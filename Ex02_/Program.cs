@@ -34,3 +34,13 @@ System.Console.WriteLine(c);
 
 Execution(a, b, c);
 Console.WriteLine("Hello, World!");
+
+// "Универсальный ввод"
+/*void PrintArray<T>(T[] array)
+{
+	foreach (var item in array)
+	{
+		Console.WriteLine(item);
+	}
+}
+*/
