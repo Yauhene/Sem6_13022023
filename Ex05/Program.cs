@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Программа создает копию массива
 int[] CreateRandomArray(int lenght, int min, int max)
 {
 	int[] array = new int[lenght];
